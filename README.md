@@ -141,7 +141,7 @@ After or during consultation, doctor adds:
 
 ## ✅ **👤 Developer**
 **Name:** Vidhi Tyagi 
-**GitHub:** (your GitHub link here)
+**GitHub:** (https://github.com/Vidhityagi18)
 
 ---
 
