@@ -105,7 +105,7 @@ After or during consultation, doctor adds:
 ## ✅ 📸 Screenshots
 
 ### 🔹 Home Page
-![Home](./screenshots/home)
+![Home](./Screenshots/home.png)
 
 ### 🔹 Patient Dashboard
 ![Dashboard](./screenshots/dashboard.png)
