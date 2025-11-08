@@ -111,7 +111,7 @@ After or during consultation, doctor adds:
 ![Dashboard](./Screenshots/paitentdashboard.png)
 
 ### 🔹 Doctor Profile
-![Doctor Profile](./screenshots/doctor_profile.png)
+![Doctor Profile](./Screenshots/docdashboard.png)
 
 ### 🔹 Medical Record View
 ![Records](./screenshots/records.png)
