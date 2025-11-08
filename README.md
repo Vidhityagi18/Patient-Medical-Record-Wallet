@@ -108,7 +108,7 @@ After or during consultation, doctor adds:
 ![Home](./Screenshots/home.png)
 
 ### 🔹 Patient Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./Screenshots/paitentdashboard.png)
 
 ### 🔹 Doctor Profile
 ![Doctor Profile](./screenshots/doctor_profile.png)
