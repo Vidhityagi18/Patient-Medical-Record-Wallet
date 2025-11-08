@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\manan\\OneDrive\\Desktop\\PMRW\\contracts\\HelloWorld.sol": {
+      "lastModificationDate": 1762438654797,
+      "contentHash": "ca80ebc5f692cc8ab0ea7f3d4f359c7f",
+      "sourceName": "contracts/HelloWorld.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "HelloWorld"
+      ]
+    },
+    "C:\\Users\\manan\\OneDrive\\Desktop\\PMRW\\contracts\\MedicalWallet.sol": {
+      "lastModificationDate": 1762438627550,
+      "contentHash": "bf24698a0aa422ad663be9863a7102ff",
+      "sourceName": "contracts/MedicalWallet.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "MedicalWallet"
+      ]
+    }
+  }
+}
