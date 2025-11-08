@@ -114,7 +114,7 @@ After or during consultation, doctor adds:
 ![Doctor Profile](./Screenshots/docdashboard.png)
 
 ### 🔹 Medical Record View
-![Records](./screenshots/records.png)
+ ![Records](./Screenshots/ss5.png)
 ---
 
 ## ✅ **🧪 How to Run Locally**
